@@ -70,5 +70,15 @@ background-color:  #FBFAF5!important;
 
 }
 
+@media screen and (max-width: 476px) {
+  img{
+    margin-top:20px;
+    margin-right:20px;
+    height:100px;
+    width:180px;
+}
+
+}
+
 
 </style>
