@@ -79,7 +79,7 @@ div{
   padding: 20px;
   border-radius: 10px; /* Optional: adds rounded corners to the wrapper */
   text-align:center;
-  width: 70%;
+  width: 80%;
   margin: auto;
   
    
